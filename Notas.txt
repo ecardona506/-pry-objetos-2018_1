@@ -1,0 +1,12 @@
+Lo que se hace es crear la version 1.0, la cual tiene el archivo original y automaticamente crea una copia
+de este. Esta es el unico archivo que se guarda, y de ahi para delante solo se guardan las modificaciones.
+
+Estructuralmente hablando, el sistema de control de versiones va estar compuesto por Un tronco principal
+y las diferentes ramas. Estos tienen release,level,branch,sequence.
+
+Si se producen mas versiones sobre la ramificacion,la secuencia se aumenta por defecto, a menos que el
+usuario indique otra accion. (Por ejemplo ramificar o algo asi).
+
+Se debe tener control sobre el historial (mostrar fechas y notas de cambio).
+
+
