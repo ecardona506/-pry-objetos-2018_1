@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+class Holamundo{
+	public:
+	void print(){
+	cout<<"HolaMundo"<<endl;
+	}
+};
